@@ -58,18 +58,9 @@ If you use the FaceForensics++ data or code please cite:
   year = {2019}
 }
 
-Project maintained and engineered by Moksh Jain
+Project maintained and engineered by Minit Chitroda
 ```
 
-## Help
-
-If you have any questions, please contact me at [mokshjaindev@gmail.com](mailto:mokshjaindev@gmail.com).
-
-## Video
-
-Please view our youtube video [here](https://www.youtube.com/watch?v=x2g48Q2I2ZQ).
-
-[![youtubev_video](https://img.youtube.com/vi/x2g48Q2I2ZQ/0.jpg)](https://www.youtube.com/watch?v=x2g48Q2I2ZQ)
 
 ## Changelog
 
@@ -89,4 +80,4 @@ Please view our youtube video [here](https://www.youtube.com/watch?v=x2g48Q2I2ZQ
 
 The data is released under the [FaceForensics Terms of Use](http://kaldir.vc.in.tum.de/faceforensics_tos.pdf), and the code is released under the MIT license.
 
-Copyright (c) 2026 Moksh Jain
+Copyright (c) 2026 Minit Chitroda
