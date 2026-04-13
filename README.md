@@ -1,4 +1,4 @@
-# Deepfake Image Detection — Moksh Jain
+# Deepfake Image Detection — Minit Chitroda
 
 ![Header](images/teaser.png)
 
